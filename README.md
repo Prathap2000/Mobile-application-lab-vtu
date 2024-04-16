@@ -15,12 +15,6 @@ Android SDK 28 or higher
 Android Studio (or any compatible IDE)
 Installation
 
-#Clone the repository to your local machine:
-bash
-Copy code
-git clone https://github.com/your-username/fingerprint-authentication-app.git
-Open the project in Android Studio.
-Build and run the project on your Android device or emulator.
 
 #Usage
 Launch the app on your Android device.
